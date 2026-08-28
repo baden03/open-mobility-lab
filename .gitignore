@@ -1,0 +1,12 @@
+.DS_Store
+
+# Private local ingestion framework
+/integration_bundle/
+/ingestion/
+/records/
+/AGENTS.md
+/.agents/skills/ingest/
+/CLAUDE.md
+/.claude/skills/ingest/
+/docs/research/codex-ingestion-support.md
+/docs/research/codex-ingestion-support_DE.md
