@@ -18,5 +18,5 @@ Reifenkontakt, vorhersehbares Lenken, Komfort und Rahmenschutz auf erwarteten Ob
 
 ## Geplante Belege
 
-Oberflächen- und Lastprofile, Kinematikmodell, Fahr- und Stabilitätssimulation, Prüfstandscharakterisierung, Dauertests und instrumentierte Fahrversuche. Siehe [Tadpole-Anordnung](../concepts/tadpole-layout_DE.md) und [variable Spurweite](../concepts/variable-track_DE.md).
+Oberflächen- und Lastprofile, Kinematikmodell, Fahr- und Stabilitätssimulation, Prüfstandscharakterisierung, Dauertests und instrumentierte Fahrversuche. Siehe [Tadpole-Anordnung](../concepts/tadpole-layout_DE.md), [variable Spurweite](../concepts/variable-track_DE.md) und späteres [adaptives Fahrwerk](../concepts/adaptive-running-gear_DE.md).
 

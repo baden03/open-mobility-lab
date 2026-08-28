@@ -175,7 +175,8 @@ Siehe [Einstufung](../regulatory/classification_DE.md), [Deutschland](../regulat
 - variable Spurweite während der Fahrt;
 - Pedal-by-wire ohne mechanischen Muskelkraftpfad zum Rad;
 - Schwungrad als wesentlicher Fahrenergiespeicher;
-- Exoskelett zur Fortsetzung motorischer Hilfe über 25 km/h.
+- Exoskelett zur Fortsetzung motorischer Hilfe über 25 km/h;
+- [Adaptives Fahrwerk](adaptive-running-gear_DE.md) als spätere Hindernis- und Crawl-Option in Urban-Geometrie (Pilot/Ausleger, Krücken/Kurvenscheiben und B2-W-inspirierte Artikulation bleiben zu verfolgende Alternativen).
 
 Diese Varianten sind eigene Fahrzeugkonfigurationen und Rechtsklassen, keine versteckten Modi eines genehmigten Fahrzeugs.
 

@@ -21,7 +21,9 @@ Explore whether one chassis can change geometry or operating mode to offer compa
 - Loads, locking integrity, pinch and crush hazards, stability envelopes, and transition conditions.
 - Whether transformation may occur while occupied or moving.
 - Mass, stiffness, maintenance, and legal-class consequences.
-- Interfaces with [variable track](variable-track.md), [suspension](../engineering/suspension.md), and [accessibility](accessibility.md).
+- Interfaces with [variable track](variable-track.md), [suspension](../engineering/suspension.md), [accessibility](accessibility.md), and later-option [Adaptive Running Gear](adaptive-running-gear.md).
+
+If [Adaptive Running Gear](adaptive-running-gear.md) is pursued, its running-gear modes use Urban geometry. Crawl is a distinct running-gear mode, not a fourth chassis family.
 
 ## Open questions
 

@@ -22,5 +22,5 @@ Co-design with diverse riders. Record functional needs with consent and minimize
 
 ## Links
 
-[Biomechanics](../engineering/biomechanics.md) · [Transforming chassis](transforming-chassis.md) · [Rowing hand drive](rowing-hand-drive.md)
+[Biomechanics](../engineering/biomechanics.md) · [Transforming chassis](transforming-chassis.md) · [Rowing hand drive](rowing-hand-drive.md) · [Adaptive Running Gear](adaptive-running-gear.md)
 
