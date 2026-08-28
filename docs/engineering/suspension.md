@@ -18,5 +18,5 @@ Maintain tyre contact, steering predictability, comfort, and frame protection ac
 
 ## Planned evidence
 
-Surface and load profiles, kinematic model, ride/stability simulation, bench characterization, durability tests, and instrumented road tests. See [tadpole layout](../concepts/tadpole-layout.md) and [variable track](../concepts/variable-track.md).
+Surface and load profiles, kinematic model, ride/stability simulation, bench characterization, durability tests, and instrumented road tests. See [tadpole layout](../concepts/tadpole-layout.md), [variable track](../concepts/variable-track.md), and later-option [Adaptive Running Gear](../concepts/adaptive-running-gear.md).
 

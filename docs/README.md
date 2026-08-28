@@ -25,6 +25,7 @@ This is the canonical English documentation index. Every substantive page has a 
 - [Accessibility](concepts/accessibility.md)
 - [Dual human propulsion](concepts/dual-human-propulsion.md)
 - [Rowing-inspired hand drive](concepts/rowing-hand-drive.md)
+- [Adaptive Running Gear](concepts/adaptive-running-gear.md)
 - [Energy system](concepts/energy-system.md)
 - [Variable track](concepts/variable-track.md)
 

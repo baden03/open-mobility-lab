@@ -10,6 +10,7 @@
 - [Zugänglichkeit](accessibility_DE.md)
 - [Doppelter Muskelkraftantrieb](dual-human-propulsion_DE.md)
 - [Ruderähnlicher Handantrieb](rowing-hand-drive_DE.md)
+- [Adaptives Fahrwerk](adaptive-running-gear_DE.md) — späteres Hindernis- und Crawl-Konzept
 - [Energiesystem](energy-system_DE.md)
 - [Variable Spurweite](variable-track_DE.md)
 

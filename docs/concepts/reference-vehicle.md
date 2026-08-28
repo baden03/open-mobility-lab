@@ -180,8 +180,9 @@ The following remain valuable alternatives but are not part of the reference roa
 - foot steering with hand-crank-only propulsion;
 - continuously variable track width while driving;
 - pedal-by-wire with no mechanical human-to-wheel path;
-- a flywheel as a significant propulsion-energy store; and
-- an exoskeleton used to continue powered assistance beyond 25 km/h.
+- a flywheel as a significant propulsion-energy store;
+- an exoskeleton used to continue powered assistance beyond 25 km/h; and
+- [Adaptive Running Gear](adaptive-running-gear.md) as a later obstacle and crawl option using Urban geometry (pilot/outrigger, crutches/cams, and B2-W-inspired articulation remain alternatives to track).
 
 These should be evaluated as separate vehicle configurations and legal classes, not hidden modes of one approved vehicle.
 

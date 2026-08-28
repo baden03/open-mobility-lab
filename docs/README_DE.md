@@ -25,6 +25,7 @@ Dies ist die zentrale deutsche Dokumentationsübersicht. Jede inhaltliche Seite 
 - [Zugänglichkeit](concepts/accessibility_DE.md)
 - [Doppelter Muskelkraftantrieb](concepts/dual-human-propulsion_DE.md)
 - [Ruderähnlicher Handantrieb](concepts/rowing-hand-drive_DE.md)
+- [Adaptives Fahrwerk](concepts/adaptive-running-gear_DE.md)
 - [Energiesystem](concepts/energy-system_DE.md)
 - [Variable Spurweite](concepts/variable-track_DE.md)
 

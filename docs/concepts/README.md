@@ -10,6 +10,7 @@
 - [Accessibility](accessibility.md)
 - [Dual human propulsion](dual-human-propulsion.md)
 - [Rowing-inspired hand drive](rowing-hand-drive.md)
+- [Adaptive Running Gear](adaptive-running-gear.md) — later-option obstacle and crawl concept
 - [Energy system](energy-system.md)
 - [Variable track](variable-track.md)
 

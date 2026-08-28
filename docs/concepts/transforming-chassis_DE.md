@@ -21,7 +21,9 @@ Untersuchen, ob ein Fahrgestell seine Geometrie oder Betriebsart ändern kann, u
 - Lasten, Verriegelungsfestigkeit, Quetsch- und Schergefahren, Stabilitätsbereiche und Übergangsbedingungen.
 - Ob eine Transformation besetzt oder während der Fahrt erfolgen darf.
 - Masse, Steifigkeit, Wartung und Folgen für die Fahrzeugklasse.
-- Schnittstellen zu [variabler Spurweite](variable-track_DE.md), [Federung](../engineering/suspension_DE.md) und [Zugänglichkeit](accessibility_DE.md).
+- Schnittstellen zu [variabler Spurweite](variable-track_DE.md), [Federung](../engineering/suspension_DE.md), [Zugänglichkeit](accessibility_DE.md) und dem späteren [adaptiven Fahrwerk](adaptive-running-gear_DE.md).
+
+Falls das [adaptive Fahrwerk](adaptive-running-gear_DE.md) verfolgt wird, nutzen seine Laufwerk-Modi die Urban-Geometrie. Crawl ist ein eigener Laufwerk-Modus, keine vierte Fahrgestellfamilie.
 
 ## Offene Fragen
 
