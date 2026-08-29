@@ -20,3 +20,4 @@ A two-front, one-rear wheel arrangement may offer stable braking, useful steerin
 
 See [variable track](variable-track.md), [suspension](../engineering/suspension.md), [accessibility](accessibility.md), and [Germany regulation](../regulatory/germany.md).
 
+Pedro Neves’s [open-source tilting tadpole cargo trike and mid-drive work](open-source-mid-drive-pedro-neves.md) provides a useful packaging and fabrication precedent. It is evidence of a built, rideable development platform—not validation of the reference vehicle’s stability, loads, suspension, or drivetrain.

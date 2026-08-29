@@ -200,10 +200,9 @@ These should be evaluated as separate vehicle configurations and legal classes, 
 
 - Exact access, urban, and cruise dimensions and whether URBAN earns its complexity.
 - Fixed or storage-folding front track.
-- Rear hub, mid-drive, or jackshaft motor location.
+- Rear hub, mid-drive, or jackshaft motor location; the [Pedro Neves open-source mid-drive](open-source-mid-drive-pedro-neves.md) is a research precedent, not a selected component.
 - Chain, belt, gearbox, CVT, differential, and independent cadence architecture.
 - Steering interface compatible with one- and two-hand propulsion.
 - Battery capacity, voltage, chemistry, removal strategy, and charging interface.
 - Mechanical lock topology and emergency recovery.
 - Whether the hand drive ships on the first road prototype or follows after foot-only validation.
-

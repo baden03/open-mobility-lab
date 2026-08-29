@@ -12,6 +12,7 @@
 - [Ruderähnlicher Handantrieb](rowing-hand-drive_DE.md)
 - [Adaptives Fahrwerk](adaptive-running-gear_DE.md) — späteres Hindernis- und Crawl-Konzept
 - [Energiesystem](energy-system_DE.md)
+- [Open-Source-Antriebsreferenz: Pedro-Neves-Mittelmotor](open-source-mid-drive-pedro-neves_DE.md) — früher Prototyp zur Prüfung, kein ausgewähltes Bauteil
 - [Variable Spurweite](variable-track_DE.md)
 
 Das Referenzfahrzeug verbindet die derzeit bevorzugten Elemente; die übrigen Seiten bewahren Konzepte, die weiterhin unabhängig verglichen, geändert oder verworfen werden können. Jede Konzeptseite muss später Schnittstellen, Fehlerarten, Validierungsbelege, regulatorische Folgen und Wechselwirkungen mit anderen Konzepten benennen.

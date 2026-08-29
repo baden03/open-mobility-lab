@@ -12,6 +12,7 @@
 - [Rowing-inspired hand drive](rowing-hand-drive.md)
 - [Adaptive Running Gear](adaptive-running-gear.md) — later-option obstacle and crawl concept
 - [Energy system](energy-system.md)
+- [Open-source drivetrain precedent: Pedro Neves mid-drive](open-source-mid-drive-pedro-neves.md) — early prototype to inspect, not a selected component
 - [Variable track](variable-track.md)
 
 The reference vehicle combines the currently preferred elements; the remaining pages preserve concepts that can still be compared, changed, or rejected independently. Each concept must eventually state interfaces, failure modes, validation evidence, regulatory effects, and interaction with the other concepts.

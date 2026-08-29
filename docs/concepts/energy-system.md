@@ -20,3 +20,4 @@ The energy system includes rider power, traction battery, motor and controller l
 
 Duty-cycle model, energy budget, thermal model, charging concept, battery risk analysis, and end-of-life/service strategy. Link electrical implementation to [electronics](../engineering/electronics.md), control behaviour to [firmware](../engineering/firmware.md), and limits to [EU research](../regulatory/eu.md).
 
+The [Pedro Neves open-source mid-drive](open-source-mid-drive-pedro-neves.md) is tracked as an inspectable drivetrain precedent. Its editable CAD and repair-oriented architecture are relevant, but its torque, thermal performance, structural load paths, licensing, assistance controls, and 250 W/25 km/h evidence must be established before it can become a candidate component.
