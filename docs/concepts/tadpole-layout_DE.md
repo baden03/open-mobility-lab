@@ -20,3 +20,4 @@ Eine Anordnung mit zwei Vorderrädern und einem Hinterrad könnte stabiles Brems
 
 Siehe [variable Spurweite](variable-track_DE.md), [Federung](../engineering/suspension_DE.md), [Zugänglichkeit](accessibility_DE.md) und [Regulierung Deutschland](../regulatory/germany_DE.md).
 
+Pedro Neves’ Arbeit am [Open-Source-Neigedreirad und Mittelmotor](open-source-mid-drive-pedro-neves_DE.md) ist eine nützliche Referenz für Einbau und Fertigung. Sie belegt eine gebaute, fahrbare Entwicklungsplattform, validiert aber weder Stabilität, Lasten, Federung noch Antrieb des Referenzfahrzeugs.

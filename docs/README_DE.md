@@ -27,6 +27,7 @@ Dies ist die zentrale deutsche Dokumentationsübersicht. Jede inhaltliche Seite 
 - [Ruderähnlicher Handantrieb](concepts/rowing-hand-drive_DE.md)
 - [Adaptives Fahrwerk](concepts/adaptive-running-gear_DE.md)
 - [Energiesystem](concepts/energy-system_DE.md)
+- [Open-Source-Antriebsreferenz: Pedro-Neves-Mittelmotor](concepts/open-source-mid-drive-pedro-neves_DE.md)
 - [Variable Spurweite](concepts/variable-track_DE.md)
 
 ## Technische Disziplinen

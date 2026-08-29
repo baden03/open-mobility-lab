@@ -194,10 +194,9 @@ Diese Varianten sind eigene Fahrzeugkonfigurationen und Rechtsklassen, keine ver
 
 - Genaue ACCESS-, URBAN- und CRUISE-Maße und Nutzen von URBAN.
 - Feste oder nur zur Lagerung einklappbare Vorderspur.
-- Hinterradnabe, Mittelmotor oder Zwischenwellenmotor.
+- Hinterradnabe, Mittelmotor oder Zwischenwellenmotor; der [Open-Source-Mittelmotor von Pedro Neves](open-source-mid-drive-pedro-neves_DE.md) ist eine Forschungsreferenz, kein ausgewähltes Bauteil.
 - Kette, Riemen, Getriebe, CVT und unabhängige Frequenzen.
 - Lenkung für Ein- und Zweihandbetrieb.
 - Batteriekapazität, Spannung, Chemie, Entnahme und Laden.
 - Verriegelungstopologie und Notbergung.
 - Handantrieb im ersten Straßenprototyp oder erst nach Fußantriebsvalidierung.
-

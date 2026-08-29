@@ -27,6 +27,7 @@ This is the canonical English documentation index. Every substantive page has a 
 - [Rowing-inspired hand drive](concepts/rowing-hand-drive.md)
 - [Adaptive Running Gear](concepts/adaptive-running-gear.md)
 - [Energy system](concepts/energy-system.md)
+- [Open-source drivetrain precedent: Pedro Neves mid-drive](concepts/open-source-mid-drive-pedro-neves.md)
 - [Variable track](concepts/variable-track.md)
 
 ## Engineering disciplines

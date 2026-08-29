@@ -20,3 +20,4 @@ Das Energiesystem umfasst menschliche Leistung, Traktionsbatterie, Motor- und Re
 
 Fahrzyklusmodell, Energiebilanz, thermisches Modell, Ladekonzept, Batterierisikoanalyse und Strategie für Wartung und Lebensende. Elektrische Umsetzung mit [Elektronik](../engineering/electronics_DE.md), Steuerverhalten mit [Firmware](../engineering/firmware_DE.md) und Grenzwerte mit [EU-Forschung](../regulatory/eu_DE.md) verknüpfen.
 
+Der [Open-Source-Mittelmotor von Pedro Neves](open-source-mid-drive-pedro-neves_DE.md) wird als prüfbare Antriebsreferenz verfolgt. Editierbares CAD und reparaturorientierte Architektur sind relevant; Drehmoment, Thermik, strukturelle Lastpfade, Lizenzierung, Unterstützungssteuerung sowie Nachweise für 250 W und 25 km/h müssen jedoch geklärt sein, bevor das System als Bauteilkandidat gelten kann.
